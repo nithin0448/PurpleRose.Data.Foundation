@@ -3,3 +3,8 @@
 ################################################################################
 
 /PurpleRose.Data.Foundation/.vs/PurpleRose.Data.Foundation/v15/Server/sqlite3
+/PurpleRose.Data.Foundation/bin/Debug/netstandard2.0
+/PurpleRose.Data.Foundation/obj/Debug/netstandard2.0
+/PurpleRose.Data.Foundation/obj
+/.vs/PurpleRose.Data.Foundation/v15
+/PurpleRose.Data.Foundation.sln
